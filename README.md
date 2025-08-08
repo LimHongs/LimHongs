@@ -1,3 +1,9 @@
+<h1 align="center">Hi 👋, I'm LimHongs</h1>
+<h3 align="center">🚀 Passionate Developer | Backend & Frontend</h3>
+
+---
+
+### 🛠 Tech Stack
 <p align="center">
   <!-- Backend & Language -->
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white">
@@ -27,4 +33,16 @@
   <!-- Games -->
   <img src="https://img.shields.io/badge/League%20of%20Legends-FFD700?style=for-the-badge&logo=leagueoflegends&logoColor=black">
   <img src="https://img.shields.io/badge/FIFA%20Online%204-2C9E39?style=for-the-badge&logo=ea&logoColor=white">
+</p>
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=LimHongs&show_icons=true&theme=panda" alt="GitHub stats" />
+</p>
+
+### 📈 Most Used Languages
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LimHongs&layout=compact&theme=panda" alt="Top Langs" />
 </p>
