@@ -29,10 +29,10 @@
   <img src="https://img.shields.io/badge/Eclipse%20IDE-2C2255?style=for-the-badge&logo=eclipse&logoColor=white">
   <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white">
   <img src="https://img.shields.io/badge/GitHub-EAEAEA?style=for-the-badge&logo=github&logoColor=000">
+   <img src="https://www.ssglanders.com/img/wyverns/emblem/new/wordmark_01.png" alt="SSG Landers logo" width="55" style="vertical-align:middle;"><img src="https://img.shields.io/badge/SSG%20Landers-e4002b?style=for-the-badge&logoColor=white" alt="SSG Landers">
 
-  <!-- Games -->
-  <img src="https://img.shields.io/badge/League%20of%20Legends-FFD700?style=for-the-badge&logo=leagueoflegends&logoColor=black">
-  <img src="https://img.shields.io/badge/FIFA%20Online%204-2C9E39?style=for-the-badge&logo=ea&logoColor=white">
+
+
 </p>
 
 ---
